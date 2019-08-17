@@ -29,7 +29,7 @@ contract Auction {
   }
 
   modifier restricted() {
-    require(msg.sender == manager,"");
+    require(msg.sender == manager || msg.sender == seller,"");
     _;
   }
 }
