@@ -6,7 +6,8 @@ Auction house is a Dapp describe a real auction in our lives. Seller can set the
 
 I have deployed this Dapp using firebase at this https://auctionhouse-8e53b.web.app/
 
-I have deployed the smart contract on kovan testnet at 0x5E64A4c1c19CE79989EbDe8f9F1e992479d0157A
+I have deployed the smart contract on kovan testnet at 0x15CB856D4E3ABae770c1619070087EB7D1D7Fa6B
+
 
 USE CASE
 
